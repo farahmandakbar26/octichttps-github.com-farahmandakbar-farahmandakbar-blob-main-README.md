@@ -7,11 +7,11 @@
 <p align="center">Octicons are a set of SVG icons built by GitHub for GitHub.</p>
 
 <p align="center">
-  <a aria-label="build status" href="https://github.com/primer/octicons/actions/workflows/ci.yml">
-    <img alt="" src="https://github.com/primer/octicons/actions/workflows/ci.yml/badge.svg?branch=main&event=push">
+  <a aria-label="build status" href="https://github.com/farahmandakbar26/primer/actions/actions/workflows/ci.yml">
+    <img alt="" src="https://github.com/farahmandakbar26/primer/actions/actions/workflows/ci.yml/badge.svg?branch=main&event=push">
   </a>
-  <a aria-label="publish status" href="https://github.com/primer/octicons/actions/workflows/publish.yml">
-    <img alt="" src="https://github.com/primer/octicons/actions/workflows/publish.yml/badge.svg">
+  <a aria-label="publish status" href="https://github.com/farahmandakbar26/primer/actions/actions/workflows/publish.yml">
+    <img alt="" src="https://github.com/farahmandakbar26/primer/actions/actions/workflows/publish.yml/badge.svg">
   </a>
 </p>
 
